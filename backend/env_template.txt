@@ -1,0 +1,50 @@
+# MedInventory Backend Environment Configuration
+# Copy this file to .env and fill in your actual values
+
+# Application Settings
+APP_NAME="MedInventory API"
+APP_ENV=development
+SECRET_KEY=your-secret-key-change-in-production
+DEBUG=true
+
+# Supabase Configuration (Required)
+SUPABASE_URL=https://your-project.supabase.co
+SUPABASE_ANON_KEY=your-anon-key
+SUPABASE_SERVICE_ROLE_KEY=your-service-role-key
+
+# AI Services (Optional - for AI agents)
+OPENAI_API_KEY=sk-your-openai-key
+ANTHROPIC_API_KEY=your-anthropic-key
+
+# Communication Services (Optional - for supplier communication)
+TWILIO_ACCOUNT_SID=your-twilio-sid
+TWILIO_AUTH_TOKEN=your-twilio-token
+TWILIO_WHATSAPP_NUMBER=+14155238886
+
+SENDGRID_API_KEY=your-sendgrid-key
+SMTP_SERVER=smtp.gmail.com
+SMTP_PORT=587
+SMTP_USERNAME=your-email@gmail.com
+SMTP_PASSWORD=your-app-password
+
+# Redis (Optional - for background tasks)
+REDIS_URL=redis://localhost:6379
+
+# Email Settings
+DEFAULT_FROM_EMAIL=noreply@medinventory.com
+DEFAULT_FROM_NAME="MedInventory System"
+
+# API Settings
+ACCESS_TOKEN_EXPIRE_MINUTES=10080
+DEFAULT_PAGE_SIZE=20
+MAX_PAGE_SIZE=100
+
+# AI Settings
+AI_MODEL=gpt-4
+AI_TEMPERATURE=0.1
+AI_MAX_TOKENS=1000
+
+# Business Logic
+LOW_STOCK_THRESHOLD_PERCENTAGE=0.2
+CRITICAL_STOCK_THRESHOLD_PERCENTAGE=0.1
+DEFAULT_BID_VALIDITY_DAYS=30

@@ -1,0 +1,27 @@
+# Minimal requirements to get MedInventory backend running
+# Let pip resolve compatible versions automatically
+
+# Core FastAPI and web framework
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+python-multipart>=0.0.6
+
+# Database
+supabase>=2.17.0
+
+# Data validation and settings (let pip resolve compatible versions)
+pydantic>=2.11.0
+pydantic-settings>=2.1.0
+
+# HTTP and utilities
+httpx>=0.26
+python-dotenv>=1.0.0
+
+# Email utilities
+email-validator>=2.1.0
+
+# Logging
+loguru>=0.7.0
+
+# HTTP client for testing
+requests>=2.31.0

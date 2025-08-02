@@ -1,0 +1,2400 @@
+{
+  "inventory_items": [
+    {
+      "name": "Paracetamol 500mg",
+      "category": "Pain Relief",
+      "quantity": 934,
+      "unit": "Tablets",
+      "batch_number": "BATCH-3197",
+      "batch_id": "B227",
+      "expiry_date": "2026-06-24",
+      "price": 0.16761705605212476,
+      "location": "Warehouse A, Shelf 3",
+      "reorder_level": 33,
+      "status": "in_stock",
+      "supplier_name": "PharmaPlus Inc."
+    },
+    {
+      "name": "Ibuprofen 400mg",
+      "category": "Pain Relief",
+      "quantity": 702,
+      "unit": "Tablets",
+      "batch_number": "BATCH-4678",
+      "batch_id": "B948",
+      "expiry_date": "2027-07-14",
+      "price": 0.2011438107302336,
+      "location": "Pharmacy, Cabinet A",
+      "reorder_level": 94,
+      "status": "in_stock",
+      "supplier_name": "PharmaPlus Inc."
+    },
+    {
+      "name": "Aspirin 75mg",
+      "category": "Pain Relief",
+      "quantity": 591,
+      "unit": "Tablets",
+      "batch_number": "BATCH-8261",
+      "batch_id": "B943",
+      "expiry_date": "2025-08-04",
+      "price": 0.12662861564848796,
+      "location": "Emergency Room Stock",
+      "reorder_level": 52,
+      "status": "in_stock",
+      "supplier_name": "Surgical Specialists Ltd"
+    },
+    {
+      "name": "Tramadol 50mg",
+      "category": "Pain Relief",
+      "quantity": 544,
+      "unit": "Capsules",
+      "batch_number": "BATCH-4872",
+      "batch_id": "B457",
+      "expiry_date": "2025-08-05",
+      "price": 0.3605405562615167,
+      "location": "Pharmacy, Cabinet A",
+      "reorder_level": 47,
+      "status": "in_stock",
+      "supplier_name": "Surgical Specialists Ltd"
+    },
+    {
+      "name": "Morphine 10mg/ml",
+      "category": "Pain Relief",
+      "quantity": 496,
+      "unit": "Vials",
+      "batch_number": "BATCH-1098",
+      "batch_id": "B315",
+      "expiry_date": "2025-08-21",
+      "price": 9.060836888481095,
+      "location": "Warehouse A, Shelf 3",
+      "reorder_level": 64,
+      "status": "in_stock",
+      "supplier_name": "BioMed Distributors"
+    },
+    {
+      "name": "Amoxicillin 250mg",
+      "category": "Antibiotics",
+      "quantity": 466,
+      "unit": "Capsules",
+      "batch_number": "BATCH-6480",
+      "batch_id": "B524",
+      "expiry_date": "2025-07-29",
+      "price": 0.24288760405681248,
+      "location": "ICU Storage",
+      "reorder_level": 93,
+      "status": "in_stock",
+      "supplier_name": "MediTech Pharmaceuticals"
+    },
+    {
+      "name": "Ciprofloxacin 500mg",
+      "category": "Antibiotics",
+      "quantity": 432,
+      "unit": "Tablets",
+      "batch_number": "BATCH-3161",
+      "batch_id": "B187",
+      "expiry_date": "2025-11-07",
+      "price": 0.4194417060487837,
+      "location": "Warehouse A, Shelf 3",
+      "reorder_level": 77,
+      "status": "in_stock",
+      "supplier_name": "BioMed Distributors"
+    },
+    {
+      "name": "Azithromycin 250mg",
+      "category": "Antibiotics",
+      "quantity": 448,
+      "unit": "Tablets",
+      "batch_number": "BATCH-6194",
+      "batch_id": "B375",
+      "expiry_date": "2027-07-30",
+      "price": 0.7944352031852623,
+      "location": "Warehouse A, Shelf 2",
+      "reorder_level": 99,
+      "status": "in_stock",
+      "supplier_name": "Surgical Specialists Ltd"
+    },
+    {
+      "name": "Ceftriaxone 1g",
+      "category": "Antibiotics",
+      "quantity": 744,
+      "unit": "Vials",
+      "batch_number": "BATCH-9814",
+      "batch_id": "B569",
+      "expiry_date": "2025-08-19",
+      "price": 3.6388158587671002,
+      "location": "ICU Storage",
+      "reorder_level": 69,
+      "status": "in_stock",
+      "supplier_name": "PharmaPlus Inc."
+    },
+    {
+      "name": "Vancomycin 500mg",
+      "category": "Antibiotics",
+      "quantity": 434,
+      "unit": "Vials",
+      "batch_number": "BATCH-8275",
+      "batch_id": "B727",
+      "expiry_date": "2026-12-21",
+      "price": 14.141101572236408,
+      "location": "Cold Storage, Section 2",
+      "reorder_level": 25,
+      "status": "in_stock",
+      "supplier_name": "Surgical Specialists Ltd"
+    },
+    {
+      "name": "Insulin Glargine",
+      "category": "Diabetes",
+      "quantity": 757,
+      "unit": "Vials",
+      "batch_number": "BATCH-7421",
+      "batch_id": "B688",
+      "expiry_date": "2026-11-25",
+      "price": 31.755088324647154,
+      "location": "Emergency Room Stock",
+      "reorder_level": 75,
+      "status": "in_stock",
+      "supplier_name": "PharmaPlus Inc."
+    },
+    {
+      "name": "Metformin 500mg",
+      "category": "Diabetes",
+      "quantity": 159,
+      "unit": "Tablets",
+      "batch_number": "BATCH-5849",
+      "batch_id": "B958",
+      "expiry_date": "2025-07-21",
+      "price": 0.07883923940350251,
+      "location": "ICU Storage",
+      "reorder_level": 50,
+      "status": "in_stock",
+      "supplier_name": "PharmaPlus Inc."
+    },
+    {
+      "name": "Glucose Test Strips",
+      "category": "Diabetes",
+      "quantity": 298,
+      "unit": "Strips",
+      "batch_number": "BATCH-8874",
+      "batch_id": "B306",
+      "expiry_date": "2025-07-04",
+      "price": 0.7409477563637712,
+      "location": "Warehouse A, Shelf 1",
+      "reorder_level": 82,
+      "status": "in_stock",
+      "supplier_name": "Healthcare Products Co."
+    },
+    {
+      "name": "Insulin Pen Needles",
+      "category": "Diabetes",
+      "quantity": 459,
+      "unit": "Needles",
+      "batch_number": "BATCH-5287",
+      "batch_id": "B990",
+      "expiry_date": "2026-08-05",
+      "price": 0.15859929910653106,
+      "location": "Cold Storage, Section 1",
+      "reorder_level": 28,
+      "status": "in_stock",
+      "supplier_name": "Surgical Specialists Ltd"
+    },
+    {
+      "name": "Glucagon Emergency Kit",
+      "category": "Diabetes",
+      "quantity": 238,
+      "unit": "Kits",
+      "batch_number": "BATCH-6893",
+      "batch_id": "B249",
+      "expiry_date": "2025-07-30",
+      "price": 92.5760061736448,
+      "location": "ICU Storage",
+      "reorder_level": 58,
+      "status": "in_stock",
+      "supplier_name": "MedEquip Solutions"
+    },
+    {
+      "name": "Atorvastatin 20mg",
+      "category": "Cardiovascular",
+      "quantity": 363,
+      "unit": "Tablets",
+      "batch_number": "BATCH-9826",
+      "batch_id": "B380",
+      "expiry_date": "2025-07-10",
+      "price": 0.2509160388873662,
+      "location": "Warehouse A, Shelf 2",
+      "reorder_level": 65,
+      "status": "in_stock",
+      "supplier_name": "MediTech Pharmaceuticals"
+    },
+    {
+      "name": "Lisinopril 10mg",
+      "category": "Cardiovascular",
+      "quantity": 263,
+      "unit": "Tablets",
+      "batch_number": "BATCH-7687",
+      "batch_id": "B897",
+      "expiry_date": "2025-07-28",
+      "price": 0.19274926256151587,
+      "location": "Pharmacy, Cabinet A",
+      "reorder_level": 82,
+      "status": "in_stock",
+      "supplier_name": "MedEquip Solutions"
+    },
+    {
+      "name": "Amlodipine 5mg",
+      "category": "Cardiovascular",
+      "quantity": 159,
+      "unit": "Tablets",
+      "batch_number": "BATCH-4542",
+      "batch_id": "B241",
+      "expiry_date": "2025-07-06",
+      "price": 0.2398560689353191,
+      "location": "Emergency Room Stock",
+      "reorder_level": 44,
+      "status": "in_stock",
+      "supplier_name": "Healthcare Products Co."
+    },
+    {
+      "name": "Warfarin 5mg",
+      "category": "Cardiovascular",
+      "quantity": 752,
+      "unit": "Tablets",
+      "batch_number": "BATCH-9615",
+      "batch_id": "B920",
+      "expiry_date": "2025-07-08",
+      "price": 0.2439113667097015,
+      "location": "Warehouse A, Shelf 2",
+      "reorder_level": 36,
+      "status": "in_stock",
+      "supplier_name": "Emergency Medical Supply"
+    },
+    {
+      "name": "Nitroglycerin Spray",
+      "category": "Cardiovascular",
+      "quantity": 512,
+      "unit": "Bottles",
+      "batch_number": "BATCH-2690",
+      "batch_id": "B632",
+      "expiry_date": "2025-08-06",
+      "price": 20.90995380185253,
+      "location": "Warehouse A, Shelf 1",
+      "reorder_level": 45,
+      "status": "in_stock",
+      "supplier_name": "PharmaPlus Inc."
+    },
+    {
+      "name": "Salbutamol Inhaler",
+      "category": "Respiratory",
+      "quantity": 690,
+      "unit": "Inhalers",
+      "batch_number": "BATCH-6513",
+      "batch_id": "B974",
+      "expiry_date": "2025-07-29",
+      "price": 13.078043034180132,
+      "location": "Warehouse B, Shelf 2",
+      "reorder_level": 86,
+      "status": "in_stock",
+      "supplier_name": "Global Health Supplies"
+    },
+    {
+      "name": "Prednisolone 5mg",
+      "category": "Respiratory",
+      "quantity": 586,
+      "unit": "Tablets",
+      "batch_number": "BATCH-3270",
+      "batch_id": "B831",
+      "expiry_date": "2025-07-23",
+      "price": 0.11215450067118071,
+      "location": "Warehouse A, Shelf 2",
+      "reorder_level": 100,
+      "status": "in_stock",
+      "supplier_name": "PharmaPlus Inc."
+    },
+    {
+      "name": "Oxygen Mask",
+      "category": "Respiratory",
+      "quantity": 307,
+      "unit": "Masks",
+      "batch_number": "BATCH-3834",
+      "batch_id": "B232",
+      "expiry_date": "2027-06-17",
+      "price": 2.951332192142882,
+      "location": "Emergency Room Stock",
+      "reorder_level": 66,
+      "status": "in_stock",
+      "supplier_name": "BioMed Distributors"
+    },
+    {
+      "name": "Nebulizer Solution",
+      "category": "Respiratory",
+      "quantity": 805,
+      "unit": "Vials",
+      "batch_number": "BATCH-1469",
+      "batch_id": "B985",
+      "expiry_date": "2025-07-24",
+      "price": 3.382142434015105,
+      "location": "Cold Storage, Section 2",
+      "reorder_level": 81,
+      "status": "in_stock",
+      "supplier_name": "MedEquip Solutions"
+    },
+    {
+      "name": "Vitamin B Complex",
+      "category": "Supplements",
+      "quantity": 472,
+      "unit": "Tablets",
+      "batch_number": "BATCH-1648",
+      "batch_id": "B133",
+      "expiry_date": "2027-03-02",
+      "price": 0.08630680869456547,
+      "location": "Cold Storage, Section 1",
+      "reorder_level": 32,
+      "status": "in_stock",
+      "supplier_name": "BioMed Distributors"
+    },
+    {
+      "name": "Vitamin D3 1000IU",
+      "category": "Supplements",
+      "quantity": 154,
+      "unit": "Tablets",
+      "batch_number": "BATCH-5285",
+      "batch_id": "B595",
+      "expiry_date": "2025-08-04",
+      "price": 0.06835007981899184,
+      "location": "Warehouse A, Shelf 3",
+      "reorder_level": 74,
+      "status": "in_stock",
+      "supplier_name": "PharmaPlus Inc."
+    },
+    {
+      "name": "Folic Acid 5mg",
+      "category": "Supplements",
+      "quantity": 230,
+      "unit": "Tablets",
+      "batch_number": "BATCH-5442",
+      "batch_id": "B586",
+      "expiry_date": "2025-07-18",
+      "price": 0.05067267965842175,
+      "location": "Warehouse A, Shelf 1",
+      "reorder_level": 33,
+      "status": "in_stock",
+      "supplier_name": "Global Health Supplies"
+    },
+    {
+      "name": "Iron Sulfate 200mg",
+      "category": "Supplements",
+      "quantity": 844,
+      "unit": "Tablets",
+      "batch_number": "BATCH-5537",
+      "batch_id": "B367",
+      "expiry_date": "2026-11-21",
+      "price": 0.13288493378786548,
+      "location": "Warehouse B, Shelf 1",
+      "reorder_level": 58,
+      "status": "in_stock",
+      "supplier_name": "Healthcare Products Co."
+    },
+    {
+      "name": "Epinephrine Auto-Injector",
+      "category": "Emergency Medicine",
+      "quantity": 56,
+      "unit": "Injectors",
+      "batch_number": "BATCH-2190",
+      "batch_id": "B612",
+      "expiry_date": "2026-11-10",
+      "price": 135.8377272860114,
+      "location": "ICU Storage",
+      "reorder_level": 16,
+      "status": "in_stock",
+      "supplier_name": "Global Health Supplies"
+    },
+    {
+      "name": "Atropine 1mg/ml",
+      "category": "Emergency Medicine",
+      "quantity": 30,
+      "unit": "Vials",
+      "batch_number": "BATCH-5445",
+      "batch_id": "B241",
+      "expiry_date": "2026-10-08",
+      "price": 4.957650601447126,
+      "location": "Warehouse B, Shelf 1",
+      "reorder_level": 24,
+      "status": "in_stock",
+      "supplier_name": "PharmaPlus Inc."
+    },
+    {
+      "name": "Dextrose 50% Solution",
+      "category": "Emergency Medicine",
+      "quantity": 76,
+      "unit": "Vials",
+      "batch_number": "BATCH-2144",
+      "batch_id": "B683",
+      "expiry_date": "2025-08-30",
+      "price": 3.188994603532753,
+      "location": "Warehouse A, Shelf 1",
+      "reorder_level": 21,
+      "status": "in_stock",
+      "supplier_name": "Surgical Specialists Ltd"
+    },
+    {
+      "name": "Naloxone 0.4mg/ml",
+      "category": "Emergency Medicine",
+      "quantity": 73,
+      "unit": "Vials",
+      "batch_number": "BATCH-4655",
+      "batch_id": "B720",
+      "expiry_date": "2025-12-02",
+      "price": 25.71620902725594,
+      "location": "Warehouse A, Shelf 2",
+      "reorder_level": 19,
+      "status": "in_stock",
+      "supplier_name": "Emergency Medical Supply"
+    },
+    {
+      "name": "Surgical Gloves (Latex)",
+      "category": "Surgical Supplies",
+      "quantity": 1100,
+      "unit": "Pairs",
+      "batch_number": "BATCH-5566",
+      "batch_id": "B307",
+      "expiry_date": "2025-09-24",
+      "price": 0.30959023499214705,
+      "location": "ICU Storage",
+      "reorder_level": 157,
+      "status": "in_stock",
+      "supplier_name": "Surgical Specialists Ltd"
+    },
+    {
+      "name": "Surgical Masks",
+      "category": "Surgical Supplies",
+      "quantity": 368,
+      "unit": "Masks",
+      "batch_number": "BATCH-4344",
+      "batch_id": "B563",
+      "expiry_date": "2025-07-12",
+      "price": 0.2862289515459412,
+      "location": "Warehouse B, Shelf 1",
+      "reorder_level": 68,
+      "status": "in_stock",
+      "supplier_name": "Healthcare Products Co."
+    },
+    {
+      "name": "Suture Kit (Nylon)",
+      "category": "Surgical Supplies",
+      "quantity": 909,
+      "unit": "Kits",
+      "batch_number": "BATCH-8235",
+      "batch_id": "B981",
+      "expiry_date": "2026-04-17",
+      "price": 11.762187060500308,
+      "location": "Cold Storage, Section 2",
+      "reorder_level": 184,
+      "status": "in_stock",
+      "supplier_name": "MedEquip Solutions"
+    },
+    {
+      "name": "Surgical Gauze",
+      "category": "Surgical Supplies",
+      "quantity": 1806,
+      "unit": "Pads",
+      "batch_number": "BATCH-4579",
+      "batch_id": "B615",
+      "expiry_date": "2027-01-19",
+      "price": 0.4204842204116646,
+      "location": "Pharmacy, Cabinet A",
+      "reorder_level": 125,
+      "status": "in_stock",
+      "supplier_name": "Healthcare Products Co."
+    },
+    {
+      "name": "Paracetamol 500mg",
+      "category": "Pain Relief",
+      "quantity": 699,
+      "unit": "Tablets",
+      "batch_number": "BATCH-2202",
+      "batch_id": "B796",
+      "expiry_date": "2025-08-26",
+      "price": 0.12854637385013928,
+      "location": "Cold Storage, Section 2",
+      "reorder_level": 73,
+      "status": "in_stock",
+      "supplier_name": "BioMed Distributors"
+    },
+    {
+      "name": "Ibuprofen 400mg",
+      "category": "Pain Relief",
+      "quantity": 557,
+      "unit": "Tablets",
+      "batch_number": "BATCH-1668",
+      "batch_id": "B999",
+      "expiry_date": "2026-10-04",
+      "price": 0.1802512690336159,
+      "location": "Emergency Room Stock",
+      "reorder_level": 85,
+      "status": "in_stock",
+      "supplier_name": "MediTech Pharmaceuticals"
+    },
+    {
+      "name": "Aspirin 75mg",
+      "category": "Pain Relief",
+      "quantity": 344,
+      "unit": "Tablets",
+      "batch_number": "BATCH-9688",
+      "batch_id": "B196",
+      "expiry_date": "2026-03-15",
+      "price": 0.13716386060982336,
+      "location": "Pharmacy, Cabinet A",
+      "reorder_level": 36,
+      "status": "in_stock",
+      "supplier_name": "MediTech Pharmaceuticals"
+    },
+    {
+      "name": "Tramadol 50mg",
+      "category": "Pain Relief",
+      "quantity": 647,
+      "unit": "Capsules",
+      "batch_number": "BATCH-1879",
+      "batch_id": "B496",
+      "expiry_date": "2025-07-24",
+      "price": 0.5367364213287924,
+      "location": "Warehouse B, Shelf 1",
+      "reorder_level": 65,
+      "status": "in_stock",
+      "supplier_name": "Surgical Specialists Ltd"
+    },
+    {
+      "name": "Morphine 10mg/ml",
+      "category": "Pain Relief",
+      "quantity": 635,
+      "unit": "Vials",
+      "batch_number": "BATCH-7781",
+      "batch_id": "B988",
+      "expiry_date": "2026-09-16",
+      "price": 8.108277666880374,
+      "location": "Cold Storage, Section 1",
+      "reorder_level": 33,
+      "status": "in_stock",
+      "supplier_name": "PharmaPlus Inc."
+    },
+    {
+      "name": "Amoxicillin 250mg",
+      "category": "Antibiotics",
+      "quantity": 835,
+      "unit": "Capsules",
+      "batch_number": "BATCH-2987",
+      "batch_id": "B884",
+      "expiry_date": "2027-02-21",
+      "price": 0.3048950979776841,
+      "location": "Warehouse B, Shelf 2",
+      "reorder_level": 47,
+      "status": "in_stock",
+      "supplier_name": "MedEquip Solutions"
+    },
+    {
+      "name": "Ciprofloxacin 500mg",
+      "category": "Antibiotics",
+      "quantity": 105,
+      "unit": "Tablets",
+      "batch_number": "BATCH-8387",
+      "batch_id": "B879",
+      "expiry_date": "2026-05-05",
+      "price": 0.41525377754765963,
+      "location": "Warehouse A, Shelf 1",
+      "reorder_level": 93,
+      "status": "in_stock",
+      "supplier_name": "PharmaPlus Inc."
+    },
+    {
+      "name": "Azithromycin 250mg",
+      "category": "Antibiotics",
+      "quantity": 416,
+      "unit": "Tablets",
+      "batch_number": "BATCH-8048",
+      "batch_id": "B690",
+      "expiry_date": "2025-08-03",
+      "price": 0.7856690087005407,
+      "location": "Emergency Room Stock",
+      "reorder_level": 60,
+      "status": "in_stock",
+      "supplier_name": "PharmaPlus Inc."
+    },
+    {
+      "name": "Ceftriaxone 1g",
+      "category": "Antibiotics",
+      "quantity": 535,
+      "unit": "Vials",
+      "batch_number": "BATCH-6224",
+      "batch_id": "B299",
+      "expiry_date": "2026-03-13",
+      "price": 3.425400947643921,
+      "location": "Warehouse B, Shelf 1",
+      "reorder_level": 46,
+      "status": "in_stock",
+      "supplier_name": "PharmaPlus Inc."
+    },
+    {
+      "name": "Vancomycin 500mg",
+      "category": "Antibiotics",
+      "quantity": 425,
+      "unit": "Vials",
+      "batch_number": "BATCH-5100",
+      "batch_id": "B550",
+      "expiry_date": "2025-08-12",
+      "price": 10.231910073394003,
+      "location": "Warehouse A, Shelf 3",
+      "reorder_level": 29,
+      "status": "in_stock",
+      "supplier_name": "Global Health Supplies"
+    },
+    {
+      "name": "Insulin Glargine",
+      "category": "Diabetes",
+      "quantity": 462,
+      "unit": "Vials",
+      "batch_number": "BATCH-8360",
+      "batch_id": "B665",
+      "expiry_date": "2026-06-21",
+      "price": 33.06593926992418,
+      "location": "Cold Storage, Section 1",
+      "reorder_level": 49,
+      "status": "in_stock",
+      "supplier_name": "MediTech Pharmaceuticals"
+    },
+    {
+      "name": "Metformin 500mg",
+      "category": "Diabetes",
+      "quantity": 550,
+      "unit": "Tablets",
+      "batch_number": "BATCH-4579",
+      "batch_id": "B389",
+      "expiry_date": "2025-08-28",
+      "price": 0.08797560339405047,
+      "location": "ICU Storage",
+      "reorder_level": 61,
+      "status": "in_stock",
+      "supplier_name": "MedEquip Solutions"
+    },
+    {
+      "name": "Glucose Test Strips",
+      "category": "Diabetes",
+      "quantity": 166,
+      "unit": "Strips",
+      "batch_number": "BATCH-8149",
+      "batch_id": "B577",
+      "expiry_date": "2025-12-19",
+      "price": 0.6983654542326051,
+      "location": "Emergency Room Stock",
+      "reorder_level": 66,
+      "status": "in_stock",
+      "supplier_name": "MediTech Pharmaceuticals"
+    },
+    {
+      "name": "Insulin Pen Needles",
+      "category": "Diabetes",
+      "quantity": 400,
+      "unit": "Needles",
+      "batch_number": "BATCH-4150",
+      "batch_id": "B686",
+      "expiry_date": "2027-03-31",
+      "price": 0.1498670901581317,
+      "location": "Pharmacy, Cabinet A",
+      "reorder_level": 88,
+      "status": "in_stock",
+      "supplier_name": "BioMed Distributors"
+    }
+  ],
+  "suppliers": [
+    {
+      "name": "MediTech Pharmaceuticals",
+      "email": "orders@meditech.com",
+      "phone": "+91-9849335586",
+      "whatsapp": "+91-9849335586",
+      "address": "831 Medical Plaza, Bangalore, India",
+      "rating": 4.8,
+      "response_time_hours": 24,
+      "delivery_performance": "average",
+      "price_competitiveness": "high",
+      "on_time_delivery_rate": 98.8803636394358,
+      "status": "active"
+    },
+    {
+      "name": "Global Health Supplies",
+      "email": "procurement@globalhealth.com",
+      "phone": "+91-9856196909",
+      "whatsapp": "+91-9856196909",
+      "address": "788 Medical Plaza, Pune, India",
+      "rating": 4.5,
+      "response_time_hours": 48,
+      "delivery_performance": "good",
+      "price_competitiveness": "medium",
+      "on_time_delivery_rate": 88.7983183292581,
+      "status": "active"
+    },
+    {
+      "name": "PharmaPlus Inc.",
+      "email": "sales@pharmaplus.com",
+      "phone": "+91-9820125897",
+      "whatsapp": "+91-9820125897",
+      "address": "465 Medical Plaza, Chennai, India",
+      "rating": 4.2,
+      "response_time_hours": 36,
+      "delivery_performance": "average",
+      "price_competitiveness": "high",
+      "on_time_delivery_rate": 93.04643534171406,
+      "status": "active"
+    },
+    {
+      "name": "Healthcare Products Co.",
+      "email": "orders@healthcareproducts.com",
+      "phone": "+91-9814745540",
+      "whatsapp": "+91-9814745540",
+      "address": "911 Medical Plaza, Chennai, India",
+      "rating": 4.7,
+      "response_time_hours": 24,
+      "delivery_performance": "average",
+      "price_competitiveness": "medium",
+      "on_time_delivery_rate": 80.61400118074204,
+      "status": "active"
+    },
+    {
+      "name": "MedEquip Solutions",
+      "email": "support@medequip.com",
+      "phone": "+91-9820916532",
+      "whatsapp": "+91-9820916532",
+      "address": "975 Medical Plaza, Bangalore, India",
+      "rating": 3.9,
+      "response_time_hours": 72,
+      "delivery_performance": "excellent",
+      "price_competitiveness": "high",
+      "on_time_delivery_rate": 95.76544815440667,
+      "status": "active"
+    },
+    {
+      "name": "BioMed Distributors",
+      "email": "sales@biomedist.com",
+      "phone": "+91-9885868245",
+      "whatsapp": "+91-9885868245",
+      "address": "337 Medical Plaza, Bangalore, India",
+      "rating": 4.4,
+      "response_time_hours": 48,
+      "delivery_performance": "excellent",
+      "price_competitiveness": "medium",
+      "on_time_delivery_rate": 93.0053959782086,
+      "status": "active"
+    },
+    {
+      "name": "Surgical Specialists Ltd",
+      "email": "orders@surgicalspec.com",
+      "phone": "+91-9832928478",
+      "whatsapp": "+91-9832928478",
+      "address": "533 Medical Plaza, Bangalore, India",
+      "rating": 4.6,
+      "response_time_hours": 36,
+      "delivery_performance": "excellent",
+      "price_competitiveness": "medium",
+      "on_time_delivery_rate": 81.08621041802665,
+      "status": "active"
+    },
+    {
+      "name": "Emergency Medical Supply",
+      "email": "urgent@emssupply.com",
+      "phone": "+91-9860150611",
+      "whatsapp": "+91-9860150611",
+      "address": "389 Medical Plaza, Chennai, India",
+      "rating": 4.3,
+      "response_time_hours": 12,
+      "delivery_performance": "good",
+      "price_competitiveness": "high",
+      "on_time_delivery_rate": 93.2894868843739,
+      "status": "active"
+    }
+  ],
+  "equipment": [
+    {
+      "name": "MRI Scanner Alpha",
+      "type": "Diagnostic Imaging",
+      "location": "Cardiology - Room 301",
+      "manufacturer": "Siemens",
+      "model": "MAGNETOM Vida 3T",
+      "serial_number": "SI-2025-001",
+      "install_date": "2024-10-12",
+      "warranty_expiry": "2029-02-23",
+      "status": "operational",
+      "health_score": 100,
+      "utilization_rate": 83.38639131831262,
+      "last_maintenance": "2025-05-04",
+      "next_maintenance": "2025-10-31"
+    },
+    {
+      "name": "CT Scanner Beta",
+      "type": "Diagnostic Imaging",
+      "location": "Radiology - Room 102",
+      "manufacturer": "GE Healthcare",
+      "model": "Revolution CT",
+      "serial_number": "GE-2025-002",
+      "install_date": "2023-09-29",
+      "warranty_expiry": "2027-05-02",
+      "status": "operational",
+      "health_score": 97,
+      "utilization_rate": 77.42795050403333,
+      "last_maintenance": "2025-05-31",
+      "next_maintenance": "2025-11-14"
+    },
+    {
+      "name": "X-Ray Machine Gamma",
+      "type": "Diagnostic Imaging",
+      "location": "Surgery - OR 1",
+      "manufacturer": "Canon",
+      "model": "CXDI-820C",
+      "serial_number": "CA-2025-003",
+      "install_date": "2025-04-13",
+      "warranty_expiry": "2028-10-11",
+      "status": "maintenance",
+      "health_score": 67,
+      "utilization_rate": 72.77139103312784,
+      "last_maintenance": "2025-07-05",
+      "next_maintenance": "2025-09-14"
+    },
+    {
+      "name": "Ultrasound Delta",
+      "type": "Diagnostic Imaging",
+      "location": "ICU - Bay 1",
+      "manufacturer": "Philips",
+      "model": "EPIQ 7",
+      "serial_number": "PH-2025-004",
+      "install_date": "2023-03-18",
+      "warranty_expiry": "2025-04-22",
+      "status": "maintenance",
+      "health_score": 65,
+      "utilization_rate": 60.12050570627359,
+      "last_maintenance": "2025-05-23",
+      "next_maintenance": "2025-12-11"
+    },
+    {
+      "name": "Ventilator Unit-A1",
+      "type": "Life Support",
+      "location": "ICU - Bay 2",
+      "manufacturer": "Philips",
+      "model": "Respironics V680",
+      "serial_number": "PH-2025-005",
+      "install_date": "2023-03-29",
+      "warranty_expiry": "2027-09-17",
+      "status": "critical",
+      "health_score": 54,
+      "utilization_rate": 87.93421228979496,
+      "last_maintenance": "2025-06-06",
+      "next_maintenance": "2025-12-08"
+    },
+    {
+      "name": "Defibrillator Pro-5",
+      "type": "Emergency",
+      "location": "Cardiology - Room 301",
+      "manufacturer": "Zoll",
+      "model": "R Series Plus",
+      "serial_number": "ZO-2025-006",
+      "install_date": "2022-09-03",
+      "warranty_expiry": "2026-06-06",
+      "status": "critical",
+      "health_score": 47,
+      "utilization_rate": 91.09394287079049,
+      "last_maintenance": "2025-05-23",
+      "next_maintenance": "2025-12-17"
+    },
+    {
+      "name": "Patient Monitor M1",
+      "type": "Monitoring",
+      "location": "Laboratory - Section A",
+      "manufacturer": "GE Healthcare",
+      "model": "CARESCAPE B850",
+      "serial_number": "GE-2025-007",
+      "install_date": "2024-07-13",
+      "warranty_expiry": "2027-02-06",
+      "status": "critical",
+      "health_score": 40,
+      "utilization_rate": 28.925054827319357,
+      "last_maintenance": "2025-06-10",
+      "next_maintenance": "2025-09-24"
+    },
+    {
+      "name": "Anesthesia Machine AM-200",
+      "type": "Surgical",
+      "location": "Pharmacy - Main Floor",
+      "manufacturer": "Dräger",
+      "model": "Perseus A500",
+      "serial_number": "DR-2025-008",
+      "install_date": "2024-01-06",
+      "warranty_expiry": "2025-08-17",
+      "status": "critical",
+      "health_score": 57,
+      "utilization_rate": 87.34361459063012,
+      "last_maintenance": "2025-05-12",
+      "next_maintenance": "2026-01-13"
+    },
+    {
+      "name": "Infusion Pump IP-100",
+      "type": "Drug Delivery",
+      "location": "Surgery - OR 2",
+      "manufacturer": "BD",
+      "model": "Alaris 8015",
+      "serial_number": "BD-2025-009",
+      "install_date": "2025-05-03",
+      "warranty_expiry": "2029-08-24",
+      "status": "critical",
+      "health_score": 44,
+      "utilization_rate": 38.737939262730315,
+      "last_maintenance": "2025-05-04",
+      "next_maintenance": "2025-11-05"
+    },
+    {
+      "name": "Laboratory Analyzer LA-500",
+      "type": "Laboratory",
+      "location": "Cardiology - Room 301",
+      "manufacturer": "Abbott",
+      "model": "ARCHITECT c4000",
+      "serial_number": "AB-2025-010",
+      "install_date": "2025-01-04",
+      "warranty_expiry": "2026-08-17",
+      "status": "critical",
+      "health_score": 53,
+      "utilization_rate": 39.97058429742111,
+      "last_maintenance": "2025-06-04",
+      "next_maintenance": "2025-11-18"
+    }
+  ],
+  "bid_requests": [
+    {
+      "title": "Medical Equipment Procurement Request #0001",
+      "description": "Urgent procurement required for medical equipment. Please provide competitive quotes with delivery timeline.",
+      "category": "Medical Equipment",
+      "items": [
+        {
+          "name": "Ceftriaxone 1g",
+          "category": "Antibiotics",
+          "quantity": 742,
+          "unit": "Vials",
+          "specifications": "Hospital grade, FDA approved, Batch size: 92"
+        },
+        {
+          "name": "Morphine 10mg/ml",
+          "category": "Pain Relief",
+          "quantity": 831,
+          "unit": "Vials",
+          "specifications": "Hospital grade, FDA approved, Batch size: 50"
+        },
+        {
+          "name": "Vitamin D3 1000IU",
+          "category": "Supplements",
+          "quantity": 667,
+          "unit": "Tablets",
+          "specifications": "Hospital grade, FDA approved, Batch size: 35"
+        }
+      ],
+      "quantity": 1807,
+      "estimated_value": 45495.11,
+      "deadline": "2025-08-07",
+      "status": "closed"
+    },
+    {
+      "title": "Pharmaceuticals Procurement Request #0002",
+      "description": "Urgent procurement required for pharmaceuticals. Please provide competitive quotes with delivery timeline.",
+      "category": "Pharmaceuticals",
+      "items": [
+        {
+          "name": "Glucagon Emergency Kit",
+          "category": "Diabetes",
+          "quantity": 464,
+          "unit": "Kits",
+          "specifications": "Hospital grade, FDA approved, Batch size: 98"
+        },
+        {
+          "name": "Amlodipine 5mg",
+          "category": "Cardiovascular",
+          "quantity": 443,
+          "unit": "Tablets",
+          "specifications": "Hospital grade, FDA approved, Batch size: 45"
+        }
+      ],
+      "quantity": 2562,
+      "estimated_value": 16089.16,
+      "deadline": "2025-08-09",
+      "status": "closed"
+    },
+    {
+      "title": "Diagnostic Reagents Procurement Request #0003",
+      "description": "Urgent procurement required for diagnostic reagents. Please provide competitive quotes with delivery timeline.",
+      "category": "Diagnostic Reagents",
+      "items": [
+        {
+          "name": "Ibuprofen 400mg",
+          "category": "Pain Relief",
+          "quantity": 549,
+          "unit": "Tablets",
+          "specifications": "Hospital grade, FDA approved, Batch size: 45"
+        },
+        {
+          "name": "Vitamin B Complex",
+          "category": "Supplements",
+          "quantity": 407,
+          "unit": "Tablets",
+          "specifications": "Hospital grade, FDA approved, Batch size: 75"
+        },
+        {
+          "name": "Vitamin B Complex",
+          "category": "Supplements",
+          "quantity": 579,
+          "unit": "Tablets",
+          "specifications": "Hospital grade, FDA approved, Batch size: 37"
+        },
+        {
+          "name": "Naloxone 0.4mg/ml",
+          "category": "Emergency Medicine",
+          "quantity": 213,
+          "unit": "Vials",
+          "specifications": "Hospital grade, FDA approved, Batch size: 89"
+        },
+        {
+          "name": "Ceftriaxone 1g",
+          "category": "Antibiotics",
+          "quantity": 819,
+          "unit": "Vials",
+          "specifications": "Hospital grade, FDA approved, Batch size: 60"
+        }
+      ],
+      "quantity": 2844,
+      "estimated_value": 32683.54,
+      "deadline": "2025-08-21",
+      "status": "active"
+    },
+    {
+      "title": "Surgical Supplies Procurement Request #0004",
+      "description": "Urgent procurement required for surgical supplies. Please provide competitive quotes with delivery timeline.",
+      "category": "Surgical Supplies",
+      "items": [
+        {
+          "name": "Paracetamol 500mg",
+          "category": "Pain Relief",
+          "quantity": 499,
+          "unit": "Tablets",
+          "specifications": "Hospital grade, FDA approved, Batch size: 40"
+        },
+        {
+          "name": "Ceftriaxone 1g",
+          "category": "Antibiotics",
+          "quantity": 328,
+          "unit": "Vials",
+          "specifications": "Hospital grade, FDA approved, Batch size: 83"
+        },
+        {
+          "name": "Nebulizer Solution",
+          "category": "Respiratory",
+          "quantity": 687,
+          "unit": "Vials",
+          "specifications": "Hospital grade, FDA approved, Batch size: 83"
+        }
+      ],
+      "quantity": 2923,
+      "estimated_value": 27481.23,
+      "deadline": "2025-08-28",
+      "status": "closed"
+    },
+    {
+      "title": "Diagnostic Reagents Procurement Request #0005",
+      "description": "Urgent procurement required for diagnostic reagents. Please provide competitive quotes with delivery timeline.",
+      "category": "Diagnostic Reagents",
+      "items": [
+        {
+          "name": "Suture Kit (Nylon)",
+          "category": "Surgical Supplies",
+          "quantity": 775,
+          "unit": "Kits",
+          "specifications": "Hospital grade, FDA approved, Batch size: 14"
+        },
+        {
+          "name": "Azithromycin 250mg",
+          "category": "Antibiotics",
+          "quantity": 1000,
+          "unit": "Tablets",
+          "specifications": "Hospital grade, FDA approved, Batch size: 32"
+        }
+      ],
+      "quantity": 496,
+      "estimated_value": 38739.48,
+      "deadline": "2025-08-28",
+      "status": "closed"
+    },
+    {
+      "title": "Surgical Supplies Procurement Request #0006",
+      "description": "Urgent procurement required for surgical supplies. Please provide competitive quotes with delivery timeline.",
+      "category": "Surgical Supplies",
+      "items": [
+        {
+          "name": "Nebulizer Solution",
+          "category": "Respiratory",
+          "quantity": 937,
+          "unit": "Vials",
+          "specifications": "Hospital grade, FDA approved, Batch size: 95"
+        },
+        {
+          "name": "Metformin 500mg",
+          "category": "Diabetes",
+          "quantity": 788,
+          "unit": "Tablets",
+          "specifications": "Hospital grade, FDA approved, Batch size: 94"
+        },
+        {
+          "name": "Ibuprofen 400mg",
+          "category": "Pain Relief",
+          "quantity": 375,
+          "unit": "Tablets",
+          "specifications": "Hospital grade, FDA approved, Batch size: 39"
+        },
+        {
+          "name": "Oxygen Mask",
+          "category": "Respiratory",
+          "quantity": 95,
+          "unit": "Masks",
+          "specifications": "Hospital grade, FDA approved, Batch size: 47"
+        },
+        {
+          "name": "Ibuprofen 400mg",
+          "category": "Pain Relief",
+          "quantity": 258,
+          "unit": "Tablets",
+          "specifications": "Hospital grade, FDA approved, Batch size: 41"
+        }
+      ],
+      "quantity": 4940,
+      "estimated_value": 17425.57,
+      "deadline": "2025-08-08",
+      "status": "draft"
+    },
+    {
+      "title": "Surgical Supplies Procurement Request #0007",
+      "description": "Urgent procurement required for surgical supplies. Please provide competitive quotes with delivery timeline.",
+      "category": "Surgical Supplies",
+      "items": [
+        {
+          "name": "Lisinopril 10mg",
+          "category": "Cardiovascular",
+          "quantity": 327,
+          "unit": "Tablets",
+          "specifications": "Hospital grade, FDA approved, Batch size: 47"
+        },
+        {
+          "name": "Iron Sulfate 200mg",
+          "category": "Supplements",
+          "quantity": 825,
+          "unit": "Tablets",
+          "specifications": "Hospital grade, FDA approved, Batch size: 48"
+        },
+        {
+          "name": "Ibuprofen 400mg",
+          "category": "Pain Relief",
+          "quantity": 950,
+          "unit": "Tablets",
+          "specifications": "Hospital grade, FDA approved, Batch size: 48"
+        }
+      ],
+      "quantity": 1936,
+      "estimated_value": 25620.2,
+      "deadline": "2025-08-25",
+      "status": "closed"
+    },
+    {
+      "title": "Pharmaceuticals Procurement Request #0008",
+      "description": "Urgent procurement required for pharmaceuticals. Please provide competitive quotes with delivery timeline.",
+      "category": "Pharmaceuticals",
+      "items": [
+        {
+          "name": "Glucagon Emergency Kit",
+          "category": "Diabetes",
+          "quantity": 810,
+          "unit": "Kits",
+          "specifications": "Hospital grade, FDA approved, Batch size: 79"
+        },
+        {
+          "name": "Paracetamol 500mg",
+          "category": "Pain Relief",
+          "quantity": 588,
+          "unit": "Tablets",
+          "specifications": "Hospital grade, FDA approved, Batch size: 22"
+        },
+        {
+          "name": "Nebulizer Solution",
+          "category": "Respiratory",
+          "quantity": 405,
+          "unit": "Vials",
+          "specifications": "Hospital grade, FDA approved, Batch size: 39"
+        },
+        {
+          "name": "Surgical Gauze",
+          "category": "Surgical Supplies",
+          "quantity": 717,
+          "unit": "Pads",
+          "specifications": "Hospital grade, FDA approved, Batch size: 91"
+        },
+        {
+          "name": "Insulin Pen Needles",
+          "category": "Diabetes",
+          "quantity": 938,
+          "unit": "Needles",
+          "specifications": "Hospital grade, FDA approved, Batch size: 15"
+        }
+      ],
+      "quantity": 2346,
+      "estimated_value": 13282.79,
+      "deadline": "2025-08-21",
+      "status": "closed"
+    },
+    {
+      "title": "Surgical Supplies Procurement Request #0009",
+      "description": "Urgent procurement required for surgical supplies. Please provide competitive quotes with delivery timeline.",
+      "category": "Surgical Supplies",
+      "items": [
+        {
+          "name": "Nitroglycerin Spray",
+          "category": "Cardiovascular",
+          "quantity": 678,
+          "unit": "Bottles",
+          "specifications": "Hospital grade, FDA approved, Batch size: 60"
+        },
+        {
+          "name": "Morphine 10mg/ml",
+          "category": "Pain Relief",
+          "quantity": 662,
+          "unit": "Vials",
+          "specifications": "Hospital grade, FDA approved, Batch size: 60"
+        },
+        {
+          "name": "Surgical Gauze",
+          "category": "Surgical Supplies",
+          "quantity": 108,
+          "unit": "Pads",
+          "specifications": "Hospital grade, FDA approved, Batch size: 38"
+        }
+      ],
+      "quantity": 1325,
+      "estimated_value": 35463.65,
+      "deadline": "2025-08-13",
+      "status": "draft"
+    },
+    {
+      "title": "Pharmaceuticals Procurement Request #0010",
+      "description": "Urgent procurement required for pharmaceuticals. Please provide competitive quotes with delivery timeline.",
+      "category": "Pharmaceuticals",
+      "items": [
+        {
+          "name": "Folic Acid 5mg",
+          "category": "Supplements",
+          "quantity": 293,
+          "unit": "Tablets",
+          "specifications": "Hospital grade, FDA approved, Batch size: 20"
+        },
+        {
+          "name": "Suture Kit (Nylon)",
+          "category": "Surgical Supplies",
+          "quantity": 341,
+          "unit": "Kits",
+          "specifications": "Hospital grade, FDA approved, Batch size: 72"
+        },
+        {
+          "name": "Tramadol 50mg",
+          "category": "Pain Relief",
+          "quantity": 207,
+          "unit": "Capsules",
+          "specifications": "Hospital grade, FDA approved, Batch size: 87"
+        }
+      ],
+      "quantity": 657,
+      "estimated_value": 26382.94,
+      "deadline": "2025-08-12",
+      "status": "active"
+    }
+  ],
+  "maintenance_tasks": [
+    {
+      "equipment_name": "Patient Monitor M1",
+      "task_type": "corrective",
+      "priority": "medium",
+      "title": "Repair power supply - Patient Monitor M1",
+      "description": "Corrective maintenance to address performance issues and restore optimal functionality.",
+      "scheduled_date": "2025-08-22",
+      "estimated_duration_hours": 2,
+      "status": "in_progress",
+      "cost": null
+    },
+    {
+      "equipment_name": "CT Scanner Beta",
+      "task_type": "preventive",
+      "priority": "critical",
+      "title": "Routine maintenance for CT Scanner Beta",
+      "description": "Regular preventive maintenance including calibration, cleaning, and performance verification.",
+      "scheduled_date": "2025-08-19",
+      "estimated_duration_hours": 5,
+      "status": "in_progress",
+      "cost": null
+    },
+    {
+      "equipment_name": "Anesthesia Machine AM-200",
+      "task_type": "preventive",
+      "priority": "critical",
+      "title": "Routine maintenance for Anesthesia Machine AM-200",
+      "description": "Regular preventive maintenance including calibration, cleaning, and performance verification.",
+      "scheduled_date": "2025-08-23",
+      "estimated_duration_hours": 8,
+      "status": "overdue",
+      "cost": null
+    },
+    {
+      "equipment_name": "Ultrasound Delta",
+      "task_type": "preventive",
+      "priority": "high",
+      "title": "Routine maintenance for Ultrasound Delta",
+      "description": "Regular preventive maintenance including calibration, cleaning, and performance verification.",
+      "scheduled_date": "2025-07-12",
+      "estimated_duration_hours": 8,
+      "status": "completed",
+      "cost": 1270.3373372855942,
+      "completed_date": "2025-07-07",
+      "actual_duration_hours": 9
+    },
+    {
+      "equipment_name": "Defibrillator Pro-5",
+      "task_type": "preventive",
+      "priority": "critical",
+      "title": "Routine maintenance for Defibrillator Pro-5",
+      "description": "Regular preventive maintenance including calibration, cleaning, and performance verification.",
+      "scheduled_date": "2025-09-02",
+      "estimated_duration_hours": 5,
+      "status": "overdue",
+      "cost": null
+    },
+    {
+      "equipment_name": "MRI Scanner Alpha",
+      "task_type": "preventive",
+      "priority": "medium",
+      "title": "Routine maintenance for MRI Scanner Alpha",
+      "description": "Regular preventive maintenance including calibration, cleaning, and performance verification.",
+      "scheduled_date": "2025-08-08",
+      "estimated_duration_hours": 1,
+      "status": "overdue",
+      "cost": null
+    },
+    {
+      "equipment_name": "MRI Scanner Alpha",
+      "task_type": "emergency",
+      "priority": "critical",
+      "title": "URGENT: Critical failure in MRI Scanner Alpha",
+      "description": "Emergency maintenance required due to critical system failure affecting patient care.",
+      "scheduled_date": "2025-07-14",
+      "estimated_duration_hours": 6,
+      "status": "completed",
+      "cost": 3215.803858435016,
+      "completed_date": "2025-07-14",
+      "actual_duration_hours": 9
+    },
+    {
+      "equipment_name": "Anesthesia Machine AM-200",
+      "task_type": "corrective",
+      "priority": "low",
+      "title": "Repair cooling system - Anesthesia Machine AM-200",
+      "description": "Corrective maintenance to address performance issues and restore optimal functionality.",
+      "scheduled_date": "2025-07-19",
+      "estimated_duration_hours": 8,
+      "status": "completed",
+      "cost": 3661.200816137931,
+      "completed_date": "2025-07-02",
+      "actual_duration_hours": 1
+    },
+    {
+      "equipment_name": "Patient Monitor M1",
+      "task_type": "emergency",
+      "priority": "critical",
+      "title": "URGENT: Critical failure in Patient Monitor M1",
+      "description": "Emergency maintenance required due to critical system failure affecting patient care.",
+      "scheduled_date": "2025-07-13",
+      "estimated_duration_hours": 2,
+      "status": "overdue",
+      "cost": null
+    },
+    {
+      "equipment_name": "MRI Scanner Alpha",
+      "task_type": "corrective",
+      "priority": "critical",
+      "title": "Repair sensor calibration - MRI Scanner Alpha",
+      "description": "Corrective maintenance to address performance issues and restore optimal functionality.",
+      "scheduled_date": "2025-07-21",
+      "estimated_duration_hours": 1,
+      "status": "in_progress",
+      "cost": null
+    },
+    {
+      "equipment_name": "Ventilator Unit-A1",
+      "task_type": "preventive",
+      "priority": "medium",
+      "title": "Routine maintenance for Ventilator Unit-A1",
+      "description": "Regular preventive maintenance including calibration, cleaning, and performance verification.",
+      "scheduled_date": "2025-08-05",
+      "estimated_duration_hours": 7,
+      "status": "overdue",
+      "cost": null
+    },
+    {
+      "equipment_name": "X-Ray Machine Gamma",
+      "task_type": "preventive",
+      "priority": "low",
+      "title": "Routine maintenance for X-Ray Machine Gamma",
+      "description": "Regular preventive maintenance including calibration, cleaning, and performance verification.",
+      "scheduled_date": "2025-08-01",
+      "estimated_duration_hours": 5,
+      "status": "completed",
+      "cost": 3685.6195200634834,
+      "completed_date": "2025-07-04",
+      "actual_duration_hours": 9
+    },
+    {
+      "equipment_name": "CT Scanner Beta",
+      "task_type": "emergency",
+      "priority": "high",
+      "title": "URGENT: Critical failure in CT Scanner Beta",
+      "description": "Emergency maintenance required due to critical system failure affecting patient care.",
+      "scheduled_date": "2025-07-23",
+      "estimated_duration_hours": 1,
+      "status": "completed",
+      "cost": 2307.9943943177896,
+      "completed_date": "2025-07-05",
+      "actual_duration_hours": 8
+    },
+    {
+      "equipment_name": "Defibrillator Pro-5",
+      "task_type": "preventive",
+      "priority": "critical",
+      "title": "Routine maintenance for Defibrillator Pro-5",
+      "description": "Regular preventive maintenance including calibration, cleaning, and performance verification.",
+      "scheduled_date": "2025-08-14",
+      "estimated_duration_hours": 4,
+      "status": "in_progress",
+      "cost": null
+    },
+    {
+      "equipment_name": "Infusion Pump IP-100",
+      "task_type": "corrective",
+      "priority": "medium",
+      "title": "Repair power supply - Infusion Pump IP-100",
+      "description": "Corrective maintenance to address performance issues and restore optimal functionality.",
+      "scheduled_date": "2025-07-23",
+      "estimated_duration_hours": 4,
+      "status": "completed",
+      "cost": 864.4458097375974,
+      "completed_date": "2025-07-09",
+      "actual_duration_hours": 7
+    }
+  ],
+  "inventory_transactions": [
+    {
+      "item_name": "Glucose Test Strips",
+      "transaction_type": "subtract",
+      "quantity": 38,
+      "reference_type": "usage",
+      "reference_id": "REF-17603",
+      "notes": "Transaction for usage - Reference: AUDIT-789",
+      "created_at": "2025-07-24T00:39:02.695333"
+    },
+    {
+      "item_name": "Glucagon Emergency Kit",
+      "transaction_type": "add",
+      "quantity": 176,
+      "reference_type": "purchase",
+      "reference_id": "REF-42284",
+      "notes": "Transaction for purchase - Reference: PATIENT-456",
+      "created_at": "2025-07-06T00:39:02.695341"
+    },
+    {
+      "item_name": "Nebulizer Solution",
+      "transaction_type": "adjust",
+      "quantity": 48,
+      "reference_type": "adjustment",
+      "reference_id": "REF-93017",
+      "notes": "Transaction for adjustment - Reference: PATIENT-456",
+      "created_at": "2025-05-31T00:39:02.695345"
+    },
+    {
+      "item_name": "Insulin Glargine",
+      "transaction_type": "subtract",
+      "quantity": 85,
+      "reference_type": "usage",
+      "reference_id": "REF-14930",
+      "notes": "Transaction for usage - Reference: PATIENT-456",
+      "created_at": "2025-05-11T00:39:02.695349"
+    },
+    {
+      "item_name": "Salbutamol Inhaler",
+      "transaction_type": "adjust",
+      "quantity": 46,
+      "reference_type": "adjustment",
+      "reference_id": "REF-65752",
+      "notes": "Transaction for adjustment - Reference: PO-123",
+      "created_at": "2025-06-02T00:39:02.695353"
+    },
+    {
+      "item_name": "Nitroglycerin Spray",
+      "transaction_type": "add",
+      "quantity": 136,
+      "reference_type": "purchase",
+      "reference_id": "REF-53673",
+      "notes": "Transaction for purchase - Reference: PO-123",
+      "created_at": "2025-06-04T00:39:02.695358"
+    },
+    {
+      "item_name": "Naloxone 0.4mg/ml",
+      "transaction_type": "adjust",
+      "quantity": 32,
+      "reference_type": "adjustment",
+      "reference_id": "REF-14159",
+      "notes": "Transaction for adjustment - Reference: PATIENT-456",
+      "created_at": "2025-06-15T00:39:02.695362"
+    },
+    {
+      "item_name": "Amoxicillin 250mg",
+      "transaction_type": "add",
+      "quantity": 128,
+      "reference_type": "purchase",
+      "reference_id": "REF-35331",
+      "notes": "Transaction for purchase - Reference: AUDIT-789",
+      "created_at": "2025-06-05T00:39:02.695367"
+    },
+    {
+      "item_name": "Surgical Gloves (Latex)",
+      "transaction_type": "subtract",
+      "quantity": 48,
+      "reference_type": "waste",
+      "reference_id": "REF-91236",
+      "notes": "Transaction for waste - Reference: PO-123",
+      "created_at": "2025-07-19T00:39:02.695371"
+    },
+    {
+      "item_name": "Glucose Test Strips",
+      "transaction_type": "subtract",
+      "quantity": 78,
+      "reference_type": "usage",
+      "reference_id": "REF-43485",
+      "notes": "Transaction for usage - Reference: TRANSFER-321",
+      "created_at": "2025-07-30T00:39:02.695375"
+    },
+    {
+      "item_name": "Salbutamol Inhaler",
+      "transaction_type": "subtract",
+      "quantity": 76,
+      "reference_type": "usage",
+      "reference_id": "REF-87934",
+      "notes": "Transaction for usage - Reference: AUDIT-789",
+      "created_at": "2025-06-21T00:39:02.695380"
+    },
+    {
+      "item_name": "Oxygen Mask",
+      "transaction_type": "subtract",
+      "quantity": 42,
+      "reference_type": "transfer",
+      "reference_id": "REF-98678",
+      "notes": "Transaction for transfer - Reference: TRANSFER-321",
+      "created_at": "2025-05-11T00:39:02.695384"
+    },
+    {
+      "item_name": "Ceftriaxone 1g",
+      "transaction_type": "adjust",
+      "quantity": 3,
+      "reference_type": "adjustment",
+      "reference_id": "REF-42321",
+      "notes": "Transaction for adjustment - Reference: TRANSFER-321",
+      "created_at": "2025-07-06T00:39:02.695393"
+    },
+    {
+      "item_name": "Glucagon Emergency Kit",
+      "transaction_type": "subtract",
+      "quantity": 74,
+      "reference_type": "usage",
+      "reference_id": "REF-62500",
+      "notes": "Transaction for usage - Reference: PO-123",
+      "created_at": "2025-07-12T00:39:02.695400"
+    },
+    {
+      "item_name": "Suture Kit (Nylon)",
+      "transaction_type": "subtract",
+      "quantity": 88,
+      "reference_type": "usage",
+      "reference_id": "REF-40433",
+      "notes": "Transaction for usage - Reference: PO-123",
+      "created_at": "2025-07-16T00:39:02.695404"
+    },
+    {
+      "item_name": "Insulin Pen Needles",
+      "transaction_type": "subtract",
+      "quantity": 73,
+      "reference_type": "usage",
+      "reference_id": "REF-24740",
+      "notes": "Transaction for usage - Reference: PATIENT-456",
+      "created_at": "2025-06-13T00:39:02.695408"
+    },
+    {
+      "item_name": "Amlodipine 5mg",
+      "transaction_type": "adjust",
+      "quantity": 49,
+      "reference_type": "adjustment",
+      "reference_id": "REF-12303",
+      "notes": "Transaction for adjustment - Reference: PATIENT-456",
+      "created_at": "2025-07-07T00:39:02.695412"
+    },
+    {
+      "item_name": "Surgical Gauze",
+      "transaction_type": "add",
+      "quantity": 133,
+      "reference_type": "purchase",
+      "reference_id": "REF-59875",
+      "notes": "Transaction for purchase - Reference: PATIENT-456",
+      "created_at": "2025-07-03T00:39:02.695417"
+    },
+    {
+      "item_name": "Atorvastatin 20mg",
+      "transaction_type": "adjust",
+      "quantity": 36,
+      "reference_type": "adjustment",
+      "reference_id": "REF-75524",
+      "notes": "Transaction for adjustment - Reference: PO-123",
+      "created_at": "2025-07-05T00:39:02.695421"
+    },
+    {
+      "item_name": "Vitamin D3 1000IU",
+      "transaction_type": "adjust",
+      "quantity": 39,
+      "reference_type": "adjustment",
+      "reference_id": "REF-33108",
+      "notes": "Transaction for adjustment - Reference: AUDIT-789",
+      "created_at": "2025-05-05T00:39:02.695424"
+    },
+    {
+      "item_name": "Nitroglycerin Spray",
+      "transaction_type": "subtract",
+      "quantity": 78,
+      "reference_type": "waste",
+      "reference_id": "REF-19384",
+      "notes": "Transaction for waste - Reference: TRANSFER-321",
+      "created_at": "2025-07-17T00:39:02.695428"
+    },
+    {
+      "item_name": "Ibuprofen 400mg",
+      "transaction_type": "subtract",
+      "quantity": 5,
+      "reference_type": "waste",
+      "reference_id": "REF-37666",
+      "notes": "Transaction for waste - Reference: TRANSFER-321",
+      "created_at": "2025-05-21T00:39:02.695432"
+    },
+    {
+      "item_name": "Paracetamol 500mg",
+      "transaction_type": "add",
+      "quantity": 272,
+      "reference_type": "purchase",
+      "reference_id": "REF-58066",
+      "notes": "Transaction for purchase - Reference: TRANSFER-321",
+      "created_at": "2025-07-01T00:39:02.695436"
+    },
+    {
+      "item_name": "Metformin 500mg",
+      "transaction_type": "add",
+      "quantity": 81,
+      "reference_type": "purchase",
+      "reference_id": "REF-32163",
+      "notes": "Transaction for purchase - Reference: PATIENT-456",
+      "created_at": "2025-07-23T00:39:02.695441"
+    },
+    {
+      "item_name": "Naloxone 0.4mg/ml",
+      "transaction_type": "adjust",
+      "quantity": 25,
+      "reference_type": "adjustment",
+      "reference_id": "REF-85234",
+      "notes": "Transaction for adjustment - Reference: AUDIT-789",
+      "created_at": "2025-06-12T00:39:02.695445"
+    },
+    {
+      "item_name": "Vancomycin 500mg",
+      "transaction_type": "subtract",
+      "quantity": 97,
+      "reference_type": "usage",
+      "reference_id": "REF-97853",
+      "notes": "Transaction for usage - Reference: AUDIT-789",
+      "created_at": "2025-05-05T00:39:02.695449"
+    },
+    {
+      "item_name": "Iron Sulfate 200mg",
+      "transaction_type": "subtract",
+      "quantity": 61,
+      "reference_type": "transfer",
+      "reference_id": "REF-72551",
+      "notes": "Transaction for transfer - Reference: AUDIT-789",
+      "created_at": "2025-05-30T00:39:02.695453"
+    },
+    {
+      "item_name": "Morphine 10mg/ml",
+      "transaction_type": "adjust",
+      "quantity": 33,
+      "reference_type": "adjustment",
+      "reference_id": "REF-86399",
+      "notes": "Transaction for adjustment - Reference: TRANSFER-321",
+      "created_at": "2025-07-28T00:39:02.695457"
+    },
+    {
+      "item_name": "Vitamin D3 1000IU",
+      "transaction_type": "add",
+      "quantity": 441,
+      "reference_type": "purchase",
+      "reference_id": "REF-99884",
+      "notes": "Transaction for purchase - Reference: PO-123",
+      "created_at": "2025-05-18T00:39:02.695461"
+    },
+    {
+      "item_name": "Metformin 500mg",
+      "transaction_type": "add",
+      "quantity": 130,
+      "reference_type": "purchase",
+      "reference_id": "REF-40571",
+      "notes": "Transaction for purchase - Reference: TRANSFER-321",
+      "created_at": "2025-07-22T00:39:02.695464"
+    },
+    {
+      "item_name": "Azithromycin 250mg",
+      "transaction_type": "adjust",
+      "quantity": 45,
+      "reference_type": "adjustment",
+      "reference_id": "REF-77146",
+      "notes": "Transaction for adjustment - Reference: TRANSFER-321",
+      "created_at": "2025-07-27T00:39:02.695470"
+    },
+    {
+      "item_name": "Salbutamol Inhaler",
+      "transaction_type": "add",
+      "quantity": 476,
+      "reference_type": "purchase",
+      "reference_id": "REF-77189",
+      "notes": "Transaction for purchase - Reference: PATIENT-456",
+      "created_at": "2025-06-06T00:39:02.695473"
+    },
+    {
+      "item_name": "Surgical Gauze",
+      "transaction_type": "subtract",
+      "quantity": 21,
+      "reference_type": "usage",
+      "reference_id": "REF-35723",
+      "notes": "Transaction for usage - Reference: PO-123",
+      "created_at": "2025-05-24T00:39:02.695478"
+    },
+    {
+      "item_name": "Ciprofloxacin 500mg",
+      "transaction_type": "subtract",
+      "quantity": 38,
+      "reference_type": "usage",
+      "reference_id": "REF-13501",
+      "notes": "Transaction for usage - Reference: PO-123",
+      "created_at": "2025-07-06T00:39:02.695482"
+    },
+    {
+      "item_name": "Surgical Gauze",
+      "transaction_type": "subtract",
+      "quantity": 74,
+      "reference_type": "usage",
+      "reference_id": "REF-67926",
+      "notes": "Transaction for usage - Reference: PO-123",
+      "created_at": "2025-06-24T00:39:02.695486"
+    },
+    {
+      "item_name": "Nitroglycerin Spray",
+      "transaction_type": "adjust",
+      "quantity": 45,
+      "reference_type": "adjustment",
+      "reference_id": "REF-39055",
+      "notes": "Transaction for adjustment - Reference: TRANSFER-321",
+      "created_at": "2025-07-28T00:39:02.695489"
+    },
+    {
+      "item_name": "Iron Sulfate 200mg",
+      "transaction_type": "add",
+      "quantity": 121,
+      "reference_type": "transfer",
+      "reference_id": "REF-73147",
+      "notes": "Transaction for transfer - Reference: TRANSFER-321",
+      "created_at": "2025-05-31T00:39:02.695496"
+    },
+    {
+      "item_name": "Suture Kit (Nylon)",
+      "transaction_type": "add",
+      "quantity": 466,
+      "reference_type": "purchase",
+      "reference_id": "REF-61028",
+      "notes": "Transaction for purchase - Reference: TRANSFER-321",
+      "created_at": "2025-06-15T00:39:02.695500"
+    },
+    {
+      "item_name": "Vitamin B Complex",
+      "transaction_type": "adjust",
+      "quantity": 41,
+      "reference_type": "adjustment",
+      "reference_id": "REF-62142",
+      "notes": "Transaction for adjustment - Reference: PATIENT-456",
+      "created_at": "2025-05-24T00:39:02.695504"
+    },
+    {
+      "item_name": "Ciprofloxacin 500mg",
+      "transaction_type": "subtract",
+      "quantity": 81,
+      "reference_type": "usage",
+      "reference_id": "REF-12517",
+      "notes": "Transaction for usage - Reference: PATIENT-456",
+      "created_at": "2025-06-08T00:39:02.695509"
+    },
+    {
+      "item_name": "Lisinopril 10mg",
+      "transaction_type": "subtract",
+      "quantity": 31,
+      "reference_type": "waste",
+      "reference_id": "REF-61905",
+      "notes": "Transaction for waste - Reference: PATIENT-456",
+      "created_at": "2025-07-12T00:39:02.695513"
+    },
+    {
+      "item_name": "Iron Sulfate 200mg",
+      "transaction_type": "add",
+      "quantity": 140,
+      "reference_type": "return",
+      "reference_id": "REF-30363",
+      "notes": "Transaction for return - Reference: PO-123",
+      "created_at": "2025-07-16T00:39:02.695517"
+    },
+    {
+      "item_name": "Warfarin 5mg",
+      "transaction_type": "adjust",
+      "quantity": 17,
+      "reference_type": "adjustment",
+      "reference_id": "REF-30032",
+      "notes": "Transaction for adjustment - Reference: AUDIT-789",
+      "created_at": "2025-05-08T00:39:02.695521"
+    },
+    {
+      "item_name": "Glucose Test Strips",
+      "transaction_type": "adjust",
+      "quantity": 5,
+      "reference_type": "adjustment",
+      "reference_id": "REF-84562",
+      "notes": "Transaction for adjustment - Reference: TRANSFER-321",
+      "created_at": "2025-06-19T00:39:02.695525"
+    },
+    {
+      "item_name": "Surgical Masks",
+      "transaction_type": "subtract",
+      "quantity": 72,
+      "reference_type": "usage",
+      "reference_id": "REF-92522",
+      "notes": "Transaction for usage - Reference: AUDIT-789",
+      "created_at": "2025-05-10T00:39:02.695529"
+    },
+    {
+      "item_name": "Salbutamol Inhaler",
+      "transaction_type": "adjust",
+      "quantity": 35,
+      "reference_type": "adjustment",
+      "reference_id": "REF-18658",
+      "notes": "Transaction for adjustment - Reference: PATIENT-456",
+      "created_at": "2025-06-05T00:39:02.695532"
+    },
+    {
+      "item_name": "Surgical Gauze",
+      "transaction_type": "adjust",
+      "quantity": 49,
+      "reference_type": "adjustment",
+      "reference_id": "REF-61798",
+      "notes": "Transaction for adjustment - Reference: TRANSFER-321",
+      "created_at": "2025-05-03T00:39:02.695536"
+    },
+    {
+      "item_name": "Lisinopril 10mg",
+      "transaction_type": "add",
+      "quantity": 212,
+      "reference_type": "return",
+      "reference_id": "REF-76452",
+      "notes": "Transaction for return - Reference: TRANSFER-321",
+      "created_at": "2025-07-28T00:39:02.695541"
+    },
+    {
+      "item_name": "Glucagon Emergency Kit",
+      "transaction_type": "adjust",
+      "quantity": 2,
+      "reference_type": "adjustment",
+      "reference_id": "REF-58392",
+      "notes": "Transaction for adjustment - Reference: TRANSFER-321",
+      "created_at": "2025-07-21T00:39:02.695545"
+    },
+    {
+      "item_name": "Dextrose 50% Solution",
+      "transaction_type": "add",
+      "quantity": 427,
+      "reference_type": "purchase",
+      "reference_id": "REF-66459",
+      "notes": "Transaction for purchase - Reference: TRANSFER-321",
+      "created_at": "2025-05-17T00:39:02.695549"
+    },
+    {
+      "item_name": "Suture Kit (Nylon)",
+      "transaction_type": "add",
+      "quantity": 277,
+      "reference_type": "purchase",
+      "reference_id": "REF-48784",
+      "notes": "Transaction for purchase - Reference: PO-123",
+      "created_at": "2025-06-13T00:39:02.695554"
+    },
+    {
+      "item_name": "Lisinopril 10mg",
+      "transaction_type": "adjust",
+      "quantity": 1,
+      "reference_type": "adjustment",
+      "reference_id": "REF-31376",
+      "notes": "Transaction for adjustment - Reference: PATIENT-456",
+      "created_at": "2025-05-04T00:39:02.695558"
+    },
+    {
+      "item_name": "Naloxone 0.4mg/ml",
+      "transaction_type": "add",
+      "quantity": 383,
+      "reference_type": "purchase",
+      "reference_id": "REF-77970",
+      "notes": "Transaction for purchase - Reference: AUDIT-789",
+      "created_at": "2025-06-14T00:39:02.695562"
+    },
+    {
+      "item_name": "Ceftriaxone 1g",
+      "transaction_type": "add",
+      "quantity": 17,
+      "reference_type": "transfer",
+      "reference_id": "REF-11531",
+      "notes": "Transaction for transfer - Reference: PO-123",
+      "created_at": "2025-07-02T00:39:02.695567"
+    },
+    {
+      "item_name": "Ciprofloxacin 500mg",
+      "transaction_type": "adjust",
+      "quantity": 12,
+      "reference_type": "adjustment",
+      "reference_id": "REF-38644",
+      "notes": "Transaction for adjustment - Reference: PO-123",
+      "created_at": "2025-05-27T00:39:02.695571"
+    },
+    {
+      "item_name": "Insulin Glargine",
+      "transaction_type": "adjust",
+      "quantity": 10,
+      "reference_type": "adjustment",
+      "reference_id": "REF-52752",
+      "notes": "Transaction for adjustment - Reference: PATIENT-456",
+      "created_at": "2025-07-07T00:39:02.695574"
+    },
+    {
+      "item_name": "Ciprofloxacin 500mg",
+      "transaction_type": "subtract",
+      "quantity": 53,
+      "reference_type": "usage",
+      "reference_id": "REF-14520",
+      "notes": "Transaction for usage - Reference: TRANSFER-321",
+      "created_at": "2025-05-11T00:39:02.695578"
+    },
+    {
+      "item_name": "Naloxone 0.4mg/ml",
+      "transaction_type": "adjust",
+      "quantity": 2,
+      "reference_type": "adjustment",
+      "reference_id": "REF-17437",
+      "notes": "Transaction for adjustment - Reference: PO-123",
+      "created_at": "2025-07-17T00:39:02.695582"
+    },
+    {
+      "item_name": "Oxygen Mask",
+      "transaction_type": "add",
+      "quantity": 73,
+      "reference_type": "purchase",
+      "reference_id": "REF-10044",
+      "notes": "Transaction for purchase - Reference: PATIENT-456",
+      "created_at": "2025-05-03T00:39:02.695586"
+    },
+    {
+      "item_name": "Aspirin 75mg",
+      "transaction_type": "add",
+      "quantity": 316,
+      "reference_type": "return",
+      "reference_id": "REF-77804",
+      "notes": "Transaction for return - Reference: TRANSFER-321",
+      "created_at": "2025-06-01T00:39:02.695590"
+    },
+    {
+      "item_name": "Prednisolone 5mg",
+      "transaction_type": "adjust",
+      "quantity": 38,
+      "reference_type": "adjustment",
+      "reference_id": "REF-74563",
+      "notes": "Transaction for adjustment - Reference: PATIENT-456",
+      "created_at": "2025-07-30T00:39:02.695594"
+    },
+    {
+      "item_name": "Vitamin D3 1000IU",
+      "transaction_type": "subtract",
+      "quantity": 11,
+      "reference_type": "usage",
+      "reference_id": "REF-14623",
+      "notes": "Transaction for usage - Reference: TRANSFER-321",
+      "created_at": "2025-06-28T00:39:02.695598"
+    },
+    {
+      "item_name": "Ceftriaxone 1g",
+      "transaction_type": "subtract",
+      "quantity": 95,
+      "reference_type": "usage",
+      "reference_id": "REF-63402",
+      "notes": "Transaction for usage - Reference: AUDIT-789",
+      "created_at": "2025-06-06T00:39:02.695603"
+    },
+    {
+      "item_name": "Amoxicillin 250mg",
+      "transaction_type": "adjust",
+      "quantity": 16,
+      "reference_type": "adjustment",
+      "reference_id": "REF-11049",
+      "notes": "Transaction for adjustment - Reference: TRANSFER-321",
+      "created_at": "2025-07-24T00:39:02.695607"
+    },
+    {
+      "item_name": "Folic Acid 5mg",
+      "transaction_type": "add",
+      "quantity": 156,
+      "reference_type": "purchase",
+      "reference_id": "REF-21646",
+      "notes": "Transaction for purchase - Reference: AUDIT-789",
+      "created_at": "2025-06-14T00:39:02.695611"
+    },
+    {
+      "item_name": "Morphine 10mg/ml",
+      "transaction_type": "adjust",
+      "quantity": 36,
+      "reference_type": "adjustment",
+      "reference_id": "REF-79229",
+      "notes": "Transaction for adjustment - Reference: PO-123",
+      "created_at": "2025-05-20T00:39:02.695615"
+    },
+    {
+      "item_name": "Insulin Glargine",
+      "transaction_type": "add",
+      "quantity": 488,
+      "reference_type": "return",
+      "reference_id": "REF-80564",
+      "notes": "Transaction for return - Reference: PATIENT-456",
+      "created_at": "2025-06-14T00:39:02.695619"
+    },
+    {
+      "item_name": "Atropine 1mg/ml",
+      "transaction_type": "adjust",
+      "quantity": 6,
+      "reference_type": "adjustment",
+      "reference_id": "REF-78697",
+      "notes": "Transaction for adjustment - Reference: PATIENT-456",
+      "created_at": "2025-07-28T00:39:02.695623"
+    },
+    {
+      "item_name": "Naloxone 0.4mg/ml",
+      "transaction_type": "adjust",
+      "quantity": 12,
+      "reference_type": "adjustment",
+      "reference_id": "REF-22421",
+      "notes": "Transaction for adjustment - Reference: PO-123",
+      "created_at": "2025-06-01T00:39:02.695626"
+    },
+    {
+      "item_name": "Tramadol 50mg",
+      "transaction_type": "add",
+      "quantity": 10,
+      "reference_type": "purchase",
+      "reference_id": "REF-58603",
+      "notes": "Transaction for purchase - Reference: PATIENT-456",
+      "created_at": "2025-05-25T00:39:02.695630"
+    },
+    {
+      "item_name": "Atropine 1mg/ml",
+      "transaction_type": "subtract",
+      "quantity": 30,
+      "reference_type": "usage",
+      "reference_id": "REF-62050",
+      "notes": "Transaction for usage - Reference: PATIENT-456",
+      "created_at": "2025-06-29T00:39:02.695634"
+    },
+    {
+      "item_name": "Prednisolone 5mg",
+      "transaction_type": "add",
+      "quantity": 115,
+      "reference_type": "transfer",
+      "reference_id": "REF-20525",
+      "notes": "Transaction for transfer - Reference: PO-123",
+      "created_at": "2025-05-23T00:39:02.695637"
+    },
+    {
+      "item_name": "Vancomycin 500mg",
+      "transaction_type": "adjust",
+      "quantity": 50,
+      "reference_type": "adjustment",
+      "reference_id": "REF-94213",
+      "notes": "Transaction for adjustment - Reference: PO-123",
+      "created_at": "2025-05-07T00:39:02.695641"
+    },
+    {
+      "item_name": "Vancomycin 500mg",
+      "transaction_type": "add",
+      "quantity": 174,
+      "reference_type": "purchase",
+      "reference_id": "REF-89239",
+      "notes": "Transaction for purchase - Reference: PO-123",
+      "created_at": "2025-05-16T00:39:02.695645"
+    },
+    {
+      "item_name": "Nitroglycerin Spray",
+      "transaction_type": "add",
+      "quantity": 281,
+      "reference_type": "purchase",
+      "reference_id": "REF-37348",
+      "notes": "Transaction for purchase - Reference: TRANSFER-321",
+      "created_at": "2025-07-08T00:39:02.695649"
+    },
+    {
+      "item_name": "Iron Sulfate 200mg",
+      "transaction_type": "adjust",
+      "quantity": 2,
+      "reference_type": "adjustment",
+      "reference_id": "REF-43330",
+      "notes": "Transaction for adjustment - Reference: TRANSFER-321",
+      "created_at": "2025-07-15T00:39:02.695690"
+    },
+    {
+      "item_name": "Dextrose 50% Solution",
+      "transaction_type": "add",
+      "quantity": 494,
+      "reference_type": "purchase",
+      "reference_id": "REF-90704",
+      "notes": "Transaction for purchase - Reference: TRANSFER-321",
+      "created_at": "2025-05-24T00:39:02.695695"
+    },
+    {
+      "item_name": "Salbutamol Inhaler",
+      "transaction_type": "subtract",
+      "quantity": 90,
+      "reference_type": "usage",
+      "reference_id": "REF-44245",
+      "notes": "Transaction for usage - Reference: PO-123",
+      "created_at": "2025-07-22T00:39:02.695699"
+    },
+    {
+      "item_name": "Iron Sulfate 200mg",
+      "transaction_type": "subtract",
+      "quantity": 32,
+      "reference_type": "usage",
+      "reference_id": "REF-32300",
+      "notes": "Transaction for usage - Reference: AUDIT-789",
+      "created_at": "2025-07-01T00:39:02.695703"
+    },
+    {
+      "item_name": "Nitroglycerin Spray",
+      "transaction_type": "subtract",
+      "quantity": 35,
+      "reference_type": "usage",
+      "reference_id": "REF-69993",
+      "notes": "Transaction for usage - Reference: PATIENT-456",
+      "created_at": "2025-05-19T00:39:02.695707"
+    },
+    {
+      "item_name": "Surgical Gauze",
+      "transaction_type": "subtract",
+      "quantity": 33,
+      "reference_type": "waste",
+      "reference_id": "REF-76388",
+      "notes": "Transaction for waste - Reference: TRANSFER-321",
+      "created_at": "2025-06-15T00:39:02.695711"
+    },
+    {
+      "item_name": "Vitamin B Complex",
+      "transaction_type": "adjust",
+      "quantity": 41,
+      "reference_type": "adjustment",
+      "reference_id": "REF-36764",
+      "notes": "Transaction for adjustment - Reference: PO-123",
+      "created_at": "2025-07-16T00:39:02.695715"
+    },
+    {
+      "item_name": "Insulin Glargine",
+      "transaction_type": "add",
+      "quantity": 80,
+      "reference_type": "purchase",
+      "reference_id": "REF-96306",
+      "notes": "Transaction for purchase - Reference: PO-123",
+      "created_at": "2025-07-06T00:39:02.695719"
+    },
+    {
+      "item_name": "Iron Sulfate 200mg",
+      "transaction_type": "adjust",
+      "quantity": 3,
+      "reference_type": "adjustment",
+      "reference_id": "REF-85882",
+      "notes": "Transaction for adjustment - Reference: PATIENT-456",
+      "created_at": "2025-06-29T00:39:02.695723"
+    },
+    {
+      "item_name": "Amoxicillin 250mg",
+      "transaction_type": "subtract",
+      "quantity": 85,
+      "reference_type": "usage",
+      "reference_id": "REF-97411",
+      "notes": "Transaction for usage - Reference: PO-123",
+      "created_at": "2025-06-11T00:39:02.695727"
+    },
+    {
+      "item_name": "Surgical Masks",
+      "transaction_type": "adjust",
+      "quantity": 42,
+      "reference_type": "adjustment",
+      "reference_id": "REF-15373",
+      "notes": "Transaction for adjustment - Reference: AUDIT-789",
+      "created_at": "2025-05-14T00:39:02.695730"
+    },
+    {
+      "item_name": "Oxygen Mask",
+      "transaction_type": "subtract",
+      "quantity": 60,
+      "reference_type": "transfer",
+      "reference_id": "REF-28403",
+      "notes": "Transaction for transfer - Reference: PATIENT-456",
+      "created_at": "2025-05-22T00:39:02.695734"
+    },
+    {
+      "item_name": "Prednisolone 5mg",
+      "transaction_type": "adjust",
+      "quantity": 31,
+      "reference_type": "adjustment",
+      "reference_id": "REF-86313",
+      "notes": "Transaction for adjustment - Reference: AUDIT-789",
+      "created_at": "2025-07-19T00:39:02.695738"
+    },
+    {
+      "item_name": "Glucagon Emergency Kit",
+      "transaction_type": "subtract",
+      "quantity": 28,
+      "reference_type": "usage",
+      "reference_id": "REF-33104",
+      "notes": "Transaction for usage - Reference: TRANSFER-321",
+      "created_at": "2025-06-07T00:39:02.695742"
+    },
+    {
+      "item_name": "Vitamin B Complex",
+      "transaction_type": "adjust",
+      "quantity": 48,
+      "reference_type": "adjustment",
+      "reference_id": "REF-87009",
+      "notes": "Transaction for adjustment - Reference: TRANSFER-321",
+      "created_at": "2025-07-16T00:39:02.695747"
+    },
+    {
+      "item_name": "Vancomycin 500mg",
+      "transaction_type": "add",
+      "quantity": 240,
+      "reference_type": "return",
+      "reference_id": "REF-79026",
+      "notes": "Transaction for return - Reference: PATIENT-456",
+      "created_at": "2025-07-08T00:39:02.695751"
+    },
+    {
+      "item_name": "Azithromycin 250mg",
+      "transaction_type": "add",
+      "quantity": 411,
+      "reference_type": "purchase",
+      "reference_id": "REF-52145",
+      "notes": "Transaction for purchase - Reference: AUDIT-789",
+      "created_at": "2025-05-27T00:39:02.695756"
+    },
+    {
+      "item_name": "Paracetamol 500mg",
+      "transaction_type": "adjust",
+      "quantity": 4,
+      "reference_type": "adjustment",
+      "reference_id": "REF-26977",
+      "notes": "Transaction for adjustment - Reference: TRANSFER-321",
+      "created_at": "2025-06-15T00:39:02.695761"
+    },
+    {
+      "item_name": "Insulin Pen Needles",
+      "transaction_type": "subtract",
+      "quantity": 10,
+      "reference_type": "transfer",
+      "reference_id": "REF-63839",
+      "notes": "Transaction for transfer - Reference: TRANSFER-321",
+      "created_at": "2025-07-16T00:39:02.695766"
+    },
+    {
+      "item_name": "Surgical Gauze",
+      "transaction_type": "add",
+      "quantity": 213,
+      "reference_type": "purchase",
+      "reference_id": "REF-24140",
+      "notes": "Transaction for purchase - Reference: PO-123",
+      "created_at": "2025-07-30T00:39:02.695771"
+    },
+    {
+      "item_name": "Folic Acid 5mg",
+      "transaction_type": "add",
+      "quantity": 296,
+      "reference_type": "purchase",
+      "reference_id": "REF-71804",
+      "notes": "Transaction for purchase - Reference: AUDIT-789",
+      "created_at": "2025-06-03T00:39:02.695775"
+    },
+    {
+      "item_name": "Tramadol 50mg",
+      "transaction_type": "subtract",
+      "quantity": 17,
+      "reference_type": "transfer",
+      "reference_id": "REF-21741",
+      "notes": "Transaction for transfer - Reference: TRANSFER-321",
+      "created_at": "2025-06-07T00:39:02.695780"
+    },
+    {
+      "item_name": "Ciprofloxacin 500mg",
+      "transaction_type": "add",
+      "quantity": 342,
+      "reference_type": "purchase",
+      "reference_id": "REF-45760",
+      "notes": "Transaction for purchase - Reference: PATIENT-456",
+      "created_at": "2025-05-14T00:39:02.695783"
+    },
+    {
+      "item_name": "Glucose Test Strips",
+      "transaction_type": "add",
+      "quantity": 96,
+      "reference_type": "purchase",
+      "reference_id": "REF-13134",
+      "notes": "Transaction for purchase - Reference: PATIENT-456",
+      "created_at": "2025-07-05T00:39:02.695787"
+    },
+    {
+      "item_name": "Iron Sulfate 200mg",
+      "transaction_type": "adjust",
+      "quantity": 29,
+      "reference_type": "adjustment",
+      "reference_id": "REF-54774",
+      "notes": "Transaction for adjustment - Reference: PATIENT-456",
+      "created_at": "2025-06-09T00:39:02.695791"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-07-31T00:39:02.695793",
+    "total_items": 50,
+    "total_suppliers": 8,
+    "total_equipment": 10,
+    "description": "Comprehensive synthetic data for MedInventory testing"
+  }
+}

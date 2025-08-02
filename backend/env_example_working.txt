@@ -1,0 +1,21 @@
+# Working environment file for testing
+# Copy this content to a .env file
+
+# Application Settings
+APP_NAME=MedInventory API
+APP_ENV=development
+SECRET_KEY=dev-secret-key-change-in-production
+DEBUG=true
+
+# Supabase Configuration (Temporary - Replace with your real values)
+SUPABASE_URL=https://placeholder.supabase.co
+SUPABASE_ANON_KEY=placeholder-anon-key
+SUPABASE_SERVICE_ROLE_KEY=placeholder-service-key
+
+# AI Configuration - Together AI
+TOGETHER_API_KEY=tgp_v1_XELYRCJuDTY69-ICL7OBEONSAYquezhyLAMfyi5-Cgc
+
+# Optional settings (can be added later)
+# OPENAI_API_KEY=your-openai-key
+# TWILIO_ACCOUNT_SID=your-twilio-sid
+# SMTP_USERNAME=your-email@gmail.com

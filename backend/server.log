@@ -1,0 +1,9 @@
+nohup: ignoring input
+INFO:     Will watch for changes in these directories: ['/home/sri/Documents/GitHub/medmanage-visionary/backend']
+ERROR:    [Errno 98] Address already in use
+🚀 Starting MedInventory Backend API...
+📝 Environment: Development
+🌐 API Documentation: http://localhost:8000/docs
+📊 Alternative Docs: http://localhost:8000/redoc
+❤️  Health Check: http://localhost:8000/health
+--------------------------------------------------
